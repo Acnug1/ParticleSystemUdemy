@@ -1,8 +1,6 @@
 ##### Название проекта: 
 # ParticleSystemUdemy
 ##### Здесь представлен сборник эффектов, которые разрабатывались для обучения создания ParticleSystem и настройке Post Processing в Unity (версия Unity: 2020.1.0f1):
-<br/>
-<br/>
 ##### Примеры эффектов:
 1. StarSkyAndSnow;
 2. Fireflies;
@@ -53,4 +51,15 @@
 <br/>
 <br/>
 [![Watch the video](https://img.youtube.com/vi/0olNkTluTEA/0.jpg)](https://youtu.be/0olNkTluTEA)
+<br/>
+<br/>
+##### Краткое описание проекта:
+Данный проект был написан на языке C# с помощью игрового движка Unity. 
+Проект был создан с целью обучения работы с Particle System. 
+<br/>
+<br/>
+Проект представляет из себя следующее:
+<br/>
+1. Тестируются основные возможности Particle System и Post Processing;
+2. Созданы различные эффекты и профили Post Processing для них.
 <br/>
