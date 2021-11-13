@@ -37,25 +37,20 @@
 31. StrangePortal;
 32. Companion.
 ##### Примеры на youtube:
-[![Watch the video](https://img.youtube.com/vi/psGJH5b8qz4/0.jpg)](https://youtu.be/psGJH5b8qz4)
+[![Watch the video](https://img.youtube.com/vi/jv-DpXTIhco/0.jpg)](https://youtu.be/jv-DpXTIhco)
 <br/>
 <br/>
-[![Watch the video](https://img.youtube.com/vi/Y6ysb7tgdMg/0.jpg)](https://youtu.be/Y6ysb7tgdMg)
+[![Watch the video](https://img.youtube.com/vi/FTJ2kNoiZpY/0.jpg)](https://youtu.be/FTJ2kNoiZpY)
 <br/>
 <br/>
-[![Watch the video](https://img.youtube.com/vi/D0W5BRhQfjs/0.jpg)](https://youtu.be/D0W5BRhQfjs)
+[![Watch the video](https://img.youtube.com/vi/TRbS191UW0g/0.jpg)](https://youtu.be/TRbS191UW0g)
 <br/>
 <br/>
-[![Watch the video](https://img.youtube.com/vi/hXhyuFt81HY/0.jpg)](https://youtu.be/hXhyuFt81HY)
+[![Watch the video](https://img.youtube.com/vi/4ocBX1Ap8C0/0.jpg)](https://youtu.be/4ocBX1Ap8C0)
 <br/>
 <br/>
-##### Краткое описание проекта:
-Данный проект был написан на языке C# с помощью игрового движка Unity. 
-Проект был создан с целью обучения работы с Particle System. 
+[![Watch the video](https://img.youtube.com/vi/cgWpTlNtsmE/0.jpg)](https://youtu.be/cgWpTlNtsmE)
 <br/>
 <br/>
-Проект представляет из себя следующее:
-<br/>
-1. Тестируются основные возможности Particle System и Post Processing;
-2. Созданы различные эффекты и профили Post Processing для них.
+[![Watch the video](https://img.youtube.com/vi/0olNkTluTEA/0.jpg)](https://youtu.be/0olNkTluTEA)
 <br/>
