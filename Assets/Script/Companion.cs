@@ -47,7 +47,7 @@ public class Companion : MonoBehaviour
             }
         }
 
-        if (Input.GetKeyDown(KeyCode.H)) // при нажатии на клавишу H
+        if (Input.GetMouseButtonDown(1)) // при нажатии на клавишу H
         {
             if (transform.position.x < _player.transform.position.x) // если компаньон находится левее, чем игрок
             {
